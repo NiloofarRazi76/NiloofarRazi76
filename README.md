@@ -12,4 +12,3 @@ My name is Niloofar. Thanks for taking the time to view my GitHub Profile 😄
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiloofarRazi76" />
 </a>
 
-&theme=dracula
